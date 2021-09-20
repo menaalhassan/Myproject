@@ -1,0 +1,44 @@
+.header1 { grid-area: header1; 
+  background-color: rgb(252, 233, 198);;
+  color: black;
+  position:sticky;
+  text-align: center;
+  margin: 0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  
+}
+
+body {
+background-color:rgb(252, 233, 198);;
+}
+
+.header2  { 
+grid-area: header2; 
+background-color: rgb(252, 233, 198);;
+color: black;
+align-self: center;
+justify-self: center;
+text-align: center;
+padding: 10px;
+margin: 0px;
+
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.flex-container > div {
+  background-color: rgb(252, 233, 198);
+  padding: 5px;
+}
+
+.flex-container img {
+  height: 230px;
+}
+
+.header3 {
+  text-align: center;
+}

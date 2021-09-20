@@ -1,0 +1,54 @@
+
+.header1 { grid-area: header1; 
+    background-color: rgba(255, 255, 255, 1);
+    color: black;
+    position:sticky;
+    text-align: center;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    
+}
+
+body {
+  background-color: wheat;
+}
+
+.header2  { 
+  grid-area: header2; 
+  background-color: rgba(255, 255, 255, 1);
+  color: black;
+  align-self: center;
+  justify-self: center;
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+
+}
+
+a:hover {
+  color:rgb(213, 145, 240)
+}
+
+.main { 
+  grid-area: main;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  
+
+}
+
+.main > div {
+  margin: 10px;
+}
+
+.main  img {
+  height: 300px;
+}
+
+.footer { grid-area: footer;
+background-color: rgba(255, 255, 255, 1);
+color: black;
+}
+
