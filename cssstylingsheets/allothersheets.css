@@ -10,12 +10,12 @@
 }
 
 body {
-background-color:rgb(252, 233, 198);;
+background-color:rgb(252, 233, 198);
 }
 
 .header2  { 
 grid-area: header2; 
-background-color: rgb(252, 233, 198);;
+background-color: rgb(252, 233, 198);
 color: black;
 align-self: center;
 justify-self: center;
