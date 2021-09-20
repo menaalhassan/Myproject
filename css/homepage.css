@@ -1,22 +1,22 @@
 
 .header1 { grid-area: header1; 
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgb(252, 233, 198);
     color: black;
     position:sticky;
     text-align: center;
-    margin: 0px;
+    margin: 40px 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     
 }
 
 body {
-  background-color: wheat;
+  background-color: rgb(252, 233, 198);
 }
 
 .header2  { 
   grid-area: header2; 
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgb(252, 233, 198);
   color: black;
   align-self: center;
   justify-self: center;
@@ -48,7 +48,7 @@ a:hover {
 }
 
 .footer { grid-area: footer;
-background-color: rgba(255, 255, 255, 1);
+background-color: rgb(252, 233, 198);
 color: black;
 }
 
