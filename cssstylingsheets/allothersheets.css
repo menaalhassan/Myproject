@@ -4,13 +4,15 @@
   position:sticky;
   text-align: center;
   margin: 40px 20px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 40px;
   
 }
 
 body {
 background-color:rgb(252, 233, 198);
+text-align: center;
+font-weight: 900;
 }
 
 .header2  { 
@@ -22,6 +24,14 @@ justify-self: center;
 text-align: center;
 padding: 20px;
 
+}
+
+.header3 {
+  text-align: center;
+}
+
+.footer{
+  margin: 90px;
 }
 
 .flex-container {
@@ -38,6 +48,3 @@ padding: 20px;
   height: 230px;
 }
 
-.header3 {
-  text-align: center;
-}
