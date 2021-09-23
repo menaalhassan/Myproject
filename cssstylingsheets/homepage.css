@@ -78,6 +78,10 @@ margin: 90px;
   margin: auto;
 }
 
+.slideshow-dot {
+  margin-bottom: 30px;
+}
+
 /* Make the images invisible by default */
 .Containers {
   display: none;
