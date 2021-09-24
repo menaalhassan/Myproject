@@ -7,7 +7,7 @@
 .header1 { 
   display: block;
   grid-area: header1; 
-  background-color: rgb(252, 233, 198);
+  background-color: rgb(241, 206, 142);
   position:sticky;
   text-align: center;
   margin: 40px 20px 0;
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .footer { grid-area: footer;
-background-color: rgb(252, 233, 198);
+background-color: rgb(241, 206, 142);
 color: black;
 margin: 90px;
 font-weight: 900;

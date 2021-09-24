@@ -1,12 +1,16 @@
+@font-face {
+  font-family: berllina;
+  src: url(/fonts/Berllina.ttf)
+}
+
 .header1 { grid-area: header1; 
-  background-color: rgb(252, 233, 198);
+  background-color: rgb(241, 206, 142);
   color: black;
   position:sticky;
   text-align: center;
   margin: 40px 20px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 40px;
-  
+  font-family: berllina;
+  font-size: 50px;
 }
 
 body {
@@ -32,6 +36,7 @@ padding: 20px;
 
 .footer{
   margin: 90px;
+  background-color: rgb(241, 206, 142);
 }
 
 .flex-container {
