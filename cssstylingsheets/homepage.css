@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: berllina;
-  src: url(/fonts/Berllina.ttf)
+  src: url(../fonts/Berllina.ttf) 
 }
 
 .header1 { 
@@ -17,6 +17,7 @@
 
 .header1 h1 {
   margin-bottom: 20px;
+  font-family: berllina;
 }
 
 body {
