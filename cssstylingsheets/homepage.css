@@ -4,11 +4,6 @@
   src: url(/fonts/Berllina.ttf)
 }
 
-@font-face {
-  font-family: berllina;
-  src: url(/fonts/.ttf)
-}
-
 .header1 { 
   display: block;
   grid-area: header1; 
